@@ -4,7 +4,7 @@
 
 **`Desenvolvedora junior`**
 
-Me chamo Larissa Bueno, tenho 16 anos. Concluindo o ensino médio na etec uirapuru. Atualmente, estou cursando Desenvolvimento de Sistemas.
+Eu me chamo Larissa Bueno, tenho 16 anos. Concluindo o ensino médio na etec uirapuru. Atualmente, estou cursando Desenvolvimento de Sistemas.
 <p align="left">
     </a> 
     <a href="https://github.com/lbuenox?tab=repositories&sort=stargazers">
